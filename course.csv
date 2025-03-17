@@ -1,0 +1,25 @@
+Course_id,Course_name,Description,Credits
+DATA220,Mathematical Methods for Data Analytics,Provides a foundation in mathematical methods used in data analytics.,3
+DATA226,Data Warehouse and Pipeline,"Introduces concepts in data warehouse design, data pipelines, and big data systems.",3
+DATA228,Big Data Technologies,Focuses on the technologies and tools used to handle big data.,3
+DATA230,Business Intelligence and Data Visualization,Teaches the concepts and tools for business intelligence and data visualization.,3
+DATA236,Distributed Systems for Data Engineering,Covers the design and implementation of distributed systems in data engineering.,3
+DATA245,Machine Learning Technologies,Explores machine learning algorithms and their applications.,3
+DATA255,Deep Learning Technologies,Focuses on deep learning techniques and their real-world applications.,3
+DATA266,Generative Model Applications,Introduces generative models and their use in machine learning.,3
+DATA270,Advanced Data Analytics,Teaches advanced techniques in data analysis and machine learning.,3
+DATA275,Data Security and Privacy,Focuses on the principles of data security and privacy in data engineering.,3
+DATA280,Cloud Computing for Data Engineers,Teaches the use of cloud computing platforms in data engineering.,3
+DATA290,Natural Language Processing,Explores the fundamentals of natural language processing in data science.,3
+DATA300,Data Engineering for AI,Provides insight into how data engineering supports artificial intelligence systems.,3
+DATA310,Data Systems Architecture,Covers the architecture and design of data management systems.,3
+DATA320,Artificial Intelligence in Data Science,Teaches the integration of AI techniques in data science applications.,3
+DATA330,Data Analytics for Business,Focuses on using data analytics to make business decisions.,3
+DATA340,Predictive Analytics,Teaches predictive modeling and forecasting techniques.,3
+DATA350,Data Ethics and Policy,Focuses on the ethical considerations and policies related to data use.,3
+DATA360,Data Engineering with Python,Introduces the principles of data engineering using Python programming.,3
+DATA200,python,basic data structure in python for applied data analytics,3
+DATA300,Computer Organization,Basic stack pipelining with simple operations,3
+DATA301,LLM,Complete AI,3
+DATA302,ML,"Machine Learning techniques ,clustering,reinforecement",3
+DATA303,web design,"HTML,CSS,JavaScript",3
